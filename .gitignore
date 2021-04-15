@@ -1,7 +1,7 @@
 #arxius
 proves.py
 push.txt
-link_tasca.txt
+link_tasca*.txt
 
 #carpetes
 .ipynb_checkpoints
